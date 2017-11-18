@@ -26,7 +26,7 @@ class template{
         var vHeader = new Vue({
             el: '#topbar-first',
             data: {
-                header_site_name: 'wwww'
+                header_site_name: 'Vorder'
             }
             
             
